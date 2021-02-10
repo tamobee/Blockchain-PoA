@@ -49,7 +49,7 @@ In order to set up a testnet we need to download the following tools/application
 ![genesis-block](Screenshots/change_network.png)
 
  * Step 1: Set up the custom network. 
-   * Under the "Network" column, scroll down to choose `Custom`
+   * Under the `Network` column, scroll down to choose `Custom`
    * Fill in the information (The URL `http://127.0.0.1:8545` points to the default RPC port on your local machine).
    * Click `Save`
    
